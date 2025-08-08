@@ -26,6 +26,8 @@ The interactive dashboard provides:
 •	Booking channels and customer segmentation
 •	Dynamic filters for drill-down analysis
 
+👉 View Dashboard Here (https://app.powerbi.com/groups/me/reports/a8edd921-5120-4c6f-901c-602b63fd5c1c/ReportSection?experience=power-bi)
+
 🧩 **Data Processing Steps**
 1.	Data Transformation: Creating calculated fields (e.g., revenue)
 2.	Joins & Aggregation: Merging datasets for a unified view
